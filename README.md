@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Guga28
-- 👀 I’m interested in Develoment front end, Phyton, Flutter, Kotlin.
-- 🌱 I’m currently learning JavaScript, Power BI and Python
-- 💞️ I’m looking to collaborate on Data Science projects
+- 👀 I’m interested in Develoment front end, Python, Flutter, Kotlin.
+- 🌱 I’m currently learning Dart, Flutter, Golang.
+- 💞️ I’m looking to collaborate on Flutter projecs.
 - 📫 How to reach me ...
 
 <!---
